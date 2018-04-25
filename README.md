@@ -13,8 +13,8 @@ After you have everything required, run commands listed below:
 2) cd SalesforceFTPConnector
 3) heroku login
 4) heroku create
-  4.1) Go to heroku dashboard and copy your new application name (it will be something similar to "infinite-mesa-47733").
-  4.2) Go to cloned repo and in pom.xml and in element <appName></appName> replace app name to yours.
+   - Go to heroku dashboard and copy your new application name (it will be something similar to "infinite-mesa-47733").
+   - Go to cloned repo and in pom.xml and in element <appName></appName> replace app name to yours.
 5) mvn clean heroku:deploy-war
 6) After successful deployment go to Salesforce `Remote Site Settings` in Setup and add new endpoint with link to your heroku app.
 
