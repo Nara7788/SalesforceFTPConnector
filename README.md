@@ -21,7 +21,7 @@ After you have everything required, run commands listed below:
 Thats it. You may test your app by running next script in Anonymous Apex:
 
 ```java
-String url = 'https://infinite-mesa-47733.herokuapp.com/SalesforceFTPConnector';
+String url = 'https://infinite-mesa-47733.herokuapp.com/SalesforceFTPConnector'; //replace with your app URL
 Http h = new Http();
 HttpRequest req = new HttpRequest();
 req.setEndpoint(url);
