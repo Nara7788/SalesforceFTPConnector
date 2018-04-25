@@ -42,4 +42,4 @@ cont.Origin = 'H';
 insert cont;
 ```
 
-Go to Files -> All files and check out new image you have recently downloaded from FTP! Have fun. ;)
+Go to Salesforce -> Files -> All files, and check out new image you have recently downloaded from FTP! Have fun. ;)
