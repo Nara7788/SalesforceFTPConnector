@@ -9,7 +9,7 @@ In order to use this application take care to have:
 5) Git
 
 After you have everything required, run commands listed below:
-1) git clone https://github.com/kumarrk21/SalesforceFTPConnector.git
+1) git clone https://github.com/Nara7788/SalesforceFTPConnector.git
 2) cd SalesforceFTPConnector
 3) heroku login
 4) heroku create
